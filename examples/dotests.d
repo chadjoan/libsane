@@ -25,6 +25,7 @@
 
 import std.stdio;
 import deimos.sane.sane;
+import deimos.sane.saneopts;
 import deimos.sane.bindingtests;
 
 bool testsWereDone = false;
